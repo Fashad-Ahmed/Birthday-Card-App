@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="happy_birthday_text">Happy Birthday!</string>
+    <string name="happy_birthday_messi_text">Happy Birthday, Messi!</string>
+    <string name="from_fashad_text">From Fashad</string>
+</resources>
